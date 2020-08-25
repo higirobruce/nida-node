@@ -13,13 +13,11 @@
     "dependencies": {
         "cors": "^2.8.5",
         "express": "^4.17.1",
-        "rest-to-soap-mapper": "^0.1.2"
-    },
-    "devDependencies": {
-        "node-gyp": "4.0.0"
+        "rest-to-soap-mapper": "^0.1.2",
+        "ursa-optional": "^0.10.1"
     },
     "engines": {
-        "npm": "6.11.2",
-        "node": "10.15.3"
+        "npm": "6.13.4",
+        "node": "12.16.1"
     }
 }
